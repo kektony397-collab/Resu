@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Interactive Resume Builder",
+  "description": "A dynamic and visually appealing resume application that allows users to switch between different design themes and languages, and export the resume as a PDF. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
